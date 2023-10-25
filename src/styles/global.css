@@ -75,24 +75,24 @@
 
 :root.theme-dark {
 	--gray-0: #ffffff;
-	--gray-50: #f3f4f7;
-	--gray-100: #e3e6ee;
-	--gray-200: #c3cadb;
-	--gray-300: #a3acc8;
-	--gray-400: #8490b5;
-	--gray-500: #6474a2;
-	--gray-600: #505d84;
-	--gray-700: #3d4663;
-	--gray-800: #283044;
-	--gray-900: #141925;
+	--gray-50: #f3f7f5;
+	--gray-100: #e3eee8;
+	--gray-200: #c3dbce;
+	--gray-300: #a3c8b9;
+	--gray-400: #84b5a3;
+	--gray-500: #64a28e;
+	--gray-600: #508472;
+	--gray-700: #3d6353;
+	--gray-800: #284439;
+	--gray-900: #14251e;
 	--gray-999-basis: 225, 31%, 5%;
-	--gray-999: #090b11;
+	--gray-999: #09110d;
 
 	--accent-light: #2d6050;
 	--accent-regular: #0f4937;
 	--accent-dark: #003e2b;
 	--accent-overlay: hsla(188, 89%, 67%, 0.33);
-	--accent-subtle-overlay: hsla(281, 81%, 36%, 0.33);
+	--accent-subtle-overlay: hsla(151, 91%, 21%, 0.33);
 	--accent-text-over: var(--gray-0);
 
 	--link-color: var(--accent-dark);
