@@ -8,5 +8,5 @@ description: |
   of a new colored water product.
 tags:
   - Design
-  - Branding
+  - Integration
 ---
