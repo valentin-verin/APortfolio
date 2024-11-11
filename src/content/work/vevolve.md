@@ -1,14 +1,13 @@
 ---
-title: MMI Creation
-publishDate: 2020-03-02 00:00:00
-img: /assets/mmiCreation.png
-img_alt: mmiCreationScreenShot
+title: Vevolve
+publishDate: 2023-03-02 00:00:00
+img: /assets/vvlv.png
+img_alt: Vevolve UI
 description: |
-  First school project, from a model to a one page website.
+  First Mobile UI project, training on figma.
 tags:
-  - Front-End
-  - HTML
-  - CSS
+  - UI
+  - Figma
 ---
 
 <!-- ## Level-two heading
